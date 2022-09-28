@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/WYSI727.dir/hw1.cpp.o -o WYSI727.exe -Wl,--out-implib,libWYSI727.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
