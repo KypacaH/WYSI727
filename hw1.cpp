@@ -56,6 +56,7 @@ int main() {
 
     cout << "Leftmost:\t" << M[p][0]<<"\t"<<M[p][1]<< endl;
     cout << "Rightmost:\t" << M[m][0]<<"\t"<<M[m][1]<< endl;
+    cout << "I changes the file" << endl;
     file.close();
     return 0;
 }
